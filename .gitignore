@@ -218,3 +218,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Gemini 335 本地输出
+/data/raw/
+/recordings/
+/Log/
+~$*.docx
